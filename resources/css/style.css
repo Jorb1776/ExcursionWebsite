@@ -1,8 +1,11 @@
 * {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-weight: normal;
-  align-content: center;
+  text-align: center;
   color: white;
+}
+body {
+  background-color: black;
 }
 
 h1 {
@@ -29,4 +32,9 @@ h2 {
   font-size: 16px;
   color: aquamarine;
   font-weight: bold;
+  text-decoration: underline;
+}
+
+.phone {
+  padding: 25px;
 }
